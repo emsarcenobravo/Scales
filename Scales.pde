@@ -5,7 +5,7 @@ void draw(){
 float r = 0;
 int diam = 0;
 boolean shift = true;
-for(int y = 10; y <= 650; y+= 40)
+for(int y = 0; y <= 650; y+= 35)
 {
   for(int x = 2; x <= 650; x+= 50)
 {
